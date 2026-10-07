@@ -1,0 +1,11 @@
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary working files
+tmp/
+work/
+*.tmp
+*.bak
+
